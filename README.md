@@ -12,8 +12,7 @@ Features:
 
 TODO:
 1. Add XML support
-2. Add Swagger UI support
-3. Additional exception handling
-4. Renaming API endpoints according to standardized conventions
-5. Fixing API response code messages (stuck at default messages)
+2. Additional exception handling
+3. Renaming API endpoints according to standardized conventions
+4. Fixing API response code messages (stuck at default messages)
 
