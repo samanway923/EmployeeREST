@@ -4,7 +4,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-
 @SpringBootApplication
 public class EmpApplication {
 
@@ -12,5 +11,7 @@ public class EmpApplication {
 		// TODO Auto-generated method stub
 		SpringApplication.run(EmpApplication.class, args);
 	}
+	
+	
 	
 }
